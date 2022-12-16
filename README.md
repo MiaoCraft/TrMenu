@@ -23,7 +23,7 @@
 * **vi_VN(Tiếng Việt)** by _@Galaxy-VN_
 * **zh_CN(简体中文)** by _@Arasple_ & _@Score2_
 * **zh_HK(繁體中文)** by _@Arasple_ & _@Score2_
-* **zh_TW(繁體中文)** copy from _zh_HK_
+* **zh_TW(繁體中文)** copy from _zh_HK
 
 ---
 
